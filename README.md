@@ -27,3 +27,17 @@ StartMenu
 ```
 
 The Start Menu also contains a **QUIT** button.
+
+## Screenshots
+
+### Start Menu
+
+![Start Menu](Screenshots/1.png)
+
+### Gameplay
+
+![Gameplay](Screenshots/2.png)
+
+### Win Screen
+
+![Win Screen](Screenshots/3.png)
